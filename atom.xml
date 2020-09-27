@@ -6,7 +6,7 @@
   <link href="https://pupuya1215.github.io/atom.xml" rel="self"/>
   
   <link href="https://pupuya1215.github.io/"/>
-  <updated>2020-09-27T05:12:12.761Z</updated>
+  <updated>2020-09-27T14:18:06.072Z</updated>
   <id>https://pupuya1215.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>xxxs</title>
+    <link href="https://pupuya1215.github.io/2020/09/27/%E6%80%BB%E7%BB%93/"/>
+    <id>https://pupuya1215.github.io/2020/09/27/%E6%80%BB%E7%BB%93/</id>
+    <published>2020-09-27T14:15:19.728Z</published>
+    <updated>2020-09-27T14:18:06.072Z</updated>
+    
+    <content type="html"><![CDATA[<p>如何定义一个变量；类型+变量名</p><p>例子 Int x</p><p>如何给变量赋值</p><p>X=1 程序从右往左看  把等号右边的值给左边</p><p>如何定义一个方法 注释 moveto是一个方法名</p><p>Public static void moveto（参数）{</p><p>这个方法的逻辑</p><p>}</p><p>如何调用方法</p><p>在主入口方法中 通过方法名（参数）调用 </p><p>Moveto（2，3）</p><p>面向对象首先创建一个新的 class类。创建的类没有主入口方法。这个class类就是一个对象，它有三个属性 名字年龄长度</p><p><strong>package</strong> helloword;</p><p><strong>public</strong> <strong>class</strong> entity {</p><p>  String name;</p><p> <strong>int</strong> age;</p><p> <strong>int</strong> length;</p><p> <strong>public</strong> entity() {</p><p>  // <strong>TODO</strong> Auto-generated constructor stub</p><p> }</p><p> <strong>public</strong> String getName() {</p><p>  <strong>return</strong> name;</p><p> }</p><p> <strong>public</strong> <strong>void</strong> setName(String name) {</p><p>  <strong>this</strong>.name = name;</p><p> }</p><p> <strong>public</strong> <strong>int</strong> getAge() {</p><p>  <strong>return</strong> age;</p><p> }</p><p> <strong>public</strong> <strong>void</strong> setAge(<strong>int</strong> age) {</p><p>  <strong>this</strong>.age = age;</p><p> }</p><p> <strong>public</strong> <strong>int</strong> getLength() {</p><p>  <strong>return</strong> length;</p><p> }</p><p> <strong>public</strong> <strong>void</strong> setLength(<strong>int</strong> length) {</p><p>  <strong>this</strong>.length = length;</p><p> }</p><p>}</p><p>如何实例化一个对象</p><p>①  Getset方法</p><p>②  构造器方法</p><p>③  属性</p><p>Getset</p><p>entity xiaoming = new entity(); 把创建的entity赋值给类型为entity的xiaoming </p><p>通过xiaoming这个变量名来调用xiaoming这个对象中的getset方法来实例化这个对象</p><p>xiaoming.setName(“小明”);</p><p>// xiaoming.setSex(“女”);</p><p>// </p><p>// xiaoming.setAge(18);</p><p>// </p><p>//  System.out.println(xiaoming.getName());</p><p>//  System.out.println(xiaoming.getAge());</p><p>// System.out.println(xiaoming.getSex())</p><p>构造器发方法 特点：没有返回值，构造器的名字跟类名一致。</p><p><strong>package</strong> helloword;</p><p><strong>public</strong> <strong>class</strong> entity2 {</p><p> String name;</p><p> <strong>int</strong> age;</p><p> <strong>int</strong> length;</p><p> <strong>public</strong> entity2() {</p><p>  // <strong>TODO</strong> Auto-generated constructor stub</p><p> }</p><p> <strong>public</strong> entity2(String name) {</p><p>  <strong>super</strong>();</p><p>  <strong>this</strong>.name = name;</p><p> }</p><p> <strong>public</strong> entity2(String name, <strong>int</strong> age) {</p><p>  <strong>super</strong>();</p><p>  <strong>this</strong>.name = name;</p><p>  <strong>this</strong>.age = age;</p><p> }</p><p> <strong>public</strong> entity2(String name, <strong>int</strong> age, <strong>int</strong> length) {</p><p>  <strong>super</strong>();</p><p>  <strong>this</strong>.name = name;</p><p>  <strong>this</strong>.age = age;</p><p>  <strong>this</strong>.length = length;</p><p> }</p><p> @Override</p><p> <strong>public</strong> String toString() {</p><p>  <strong>return</strong> “entity2 [name=” + name + “, age=” + age + “, length=” + length + “]”;</p><p> }</p><p>}</p><p>entity2 xiaomi = new entity2(“小米”,15,55); 在创建entity2的同时给这个对象的属性赋值</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;如何定义一个变量；类型+变量名&lt;/p&gt;
+&lt;p&gt;例子 Int x&lt;/p&gt;
+&lt;p&gt;如何给变量赋值&lt;/p&gt;
+&lt;p&gt;X=1 程序从右往左看  把等号右边的值给左边&lt;/p&gt;
+&lt;p&gt;如何定义一个方法 注释 moveto是一个方法名&lt;/p&gt;
+&lt;p&gt;Public static void m</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>安装CentOS8</title>
@@ -31,49 +56,6 @@
     <summary type="html">&lt;h1 id=&quot;1VM16安装CentOS8&quot;&gt;&lt;a href=&quot;#1VM16安装CentOS8&quot; class=&quot;headerlink&quot; title=&quot;1VM16安装CentOS8&quot;&gt;&lt;/a&gt;1VM16安装CentOS8&lt;/h1&gt;&lt;ol&gt;
 &lt;li&gt;安装VM16&lt;ol&gt;
 &lt;li&gt;&lt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2222this</title>
-    <link href="https://pupuya1215.github.io/2020/09/22/test2/"/>
-    <id>https://pupuya1215.github.io/2020/09/22/test2/</id>
-    <published>2020-09-22T14:32:19.416Z</published>
-    <updated>2020-09-27T05:11:16.805Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><ol><li>这是我的第一个博客页面<ol><li>1</li></ol></li></ol><ul><li>这是我的第一个博客页面<ul><li>2</li></ul></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;这是我的第一个博客页面&lt;ol&gt;
-&lt;li&gt;1&lt;/li&gt;
-&lt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://pupuya1215.github.io/2020/09/22/test1/"/>
-    <id>https://pupuya1215.github.io/2020/09/22/test1/</id>
-    <published>2020-09-22T14:31:15.082Z</published>
-    <updated>2020-09-22T14:32:01.494Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><ol><li>这是我的第一个博客页面<ol><li>1</li></ol></li></ol><ul><li>这是我的第一个博客页面<ul><li>2</li></ul></li></ul><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
       
     
     
