@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://pupuya1215.github.io/2020/09/27/VM15.5%E5%AE%89%E8%A3%85CentOS8/</loc>
+    
+    <lastmod>2020-09-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pupuya1215.github.io/2020/09/22/222/</loc>
+    
+    <lastmod>2020-09-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pupuya1215.github.io/2020/09/22/hello-world/</loc>
+    
+    <lastmod>2020-09-22</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://pupuya1215.github.io/</loc>
+    <lastmod>2020-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
