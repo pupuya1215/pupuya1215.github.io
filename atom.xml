@@ -6,7 +6,7 @@
   <link href="https://pupuya1215.github.io/atom.xml" rel="self"/>
   
   <link href="https://pupuya1215.github.io/"/>
-  <updated>2020-09-27T14:47:08.440Z</updated>
+  <updated>2020-09-27T15:08:38.383Z</updated>
   <id>https://pupuya1215.github.io/</id>
   
   <author>
@@ -21,15 +21,16 @@
     <link href="https://pupuya1215.github.io/2020/09/27/test2/"/>
     <id>https://pupuya1215.github.io/2020/09/27/test2/</id>
     <published>2020-09-27T14:43:46.677Z</published>
-    <updated>2020-09-27T14:47:08.440Z</updated>
+    <updated>2020-09-27T15:08:38.383Z</updated>
     
-    <content type="html"><![CDATA[<hr><h2 id="title：test2"><a href="#title：test2" class="headerlink" title="title：test2"></a>title：test2</h2><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><ol><li>这是我的第一个博客页面<ol><li>1</li></ol></li></ol><ul><li>这是我的第一个博客页面<ul><li>2</li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<hr><h2 id="title-test2"><a href="#title-test2" class="headerlink" title="title:test2"></a>title:test2</h2><p>title：test2</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><ol><li>这是我的第一个博客页面<ol><li>1</li></ol></li></ol><ul><li>这是我的第一个博客页面<ul><li>2</li></ul></li></ul>]]></content>
     
     
       
       
     <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;title：test2&quot;&gt;&lt;a href=&quot;#title：test2&quot; class=&quot;headerlink&quot; title=&quot;title：test2&quot;&gt;&lt;/a&gt;title：test2&lt;/h2&gt;&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Q</summary>
+&lt;h2 id=&quot;title-test2&quot;&gt;&lt;a href=&quot;#title-test2&quot; class=&quot;headerlink&quot; title=&quot;title:test2&quot;&gt;&lt;/a&gt;title:test2&lt;/h2&gt;&lt;p&gt;title：test2&lt;/p&gt;
+&lt;h2 id=&quot;Quick</summary>
       
     
     
