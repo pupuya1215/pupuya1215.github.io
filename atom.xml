@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>丘子</title>
   
-  
+  <subtitle>希望我能成为你的小众喜好</subtitle>
   <link href="https://pupuya1215.github.io/atom.xml" rel="self"/>
   
   <link href="https://pupuya1215.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://pupuya1215.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>猫宫二酱</name>
     
   </author>
   
@@ -40,8 +40,8 @@
   
   <entry>
     <title>2222this</title>
-    <link href="https://pupuya1215.github.io/2020/09/22/222/"/>
-    <id>https://pupuya1215.github.io/2020/09/22/222/</id>
+    <link href="https://pupuya1215.github.io/2020/09/22/test2/"/>
+    <id>https://pupuya1215.github.io/2020/09/22/test2/</id>
     <published>2020-09-22T14:32:19.416Z</published>
     <updated>2020-09-27T05:11:16.805Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://pupuya1215.github.io/2020/09/22/hello-world/"/>
-    <id>https://pupuya1215.github.io/2020/09/22/hello-world/</id>
+    <link href="https://pupuya1215.github.io/2020/09/22/test1/"/>
+    <id>https://pupuya1215.github.io/2020/09/22/test1/</id>
     <published>2020-09-22T14:31:15.082Z</published>
     <updated>2020-09-22T14:32:01.494Z</updated>
     
