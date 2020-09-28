@@ -6,7 +6,7 @@
   <link href="https://pupuya1215.github.io/atom.xml" rel="self"/>
   
   <link href="https://pupuya1215.github.io/"/>
-  <updated>2020-09-27T15:08:38.383Z</updated>
+  <updated>2020-09-28T14:52:26.158Z</updated>
   <id>https://pupuya1215.github.io/</id>
   
   <author>
@@ -17,20 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://pupuya1215.github.io/2020/09/27/test2/"/>
-    <id>https://pupuya1215.github.io/2020/09/27/test2/</id>
-    <published>2020-09-27T14:43:46.677Z</published>
-    <updated>2020-09-27T15:08:38.383Z</updated>
+    <title>test222222</title>
+    <link href="https://pupuya1215.github.io/2020/09/28/test1%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <id>https://pupuya1215.github.io/2020/09/28/test1%20-%20%E5%89%AF%E6%9C%AC/</id>
+    <published>2020-09-28T14:52:06.450Z</published>
+    <updated>2020-09-28T14:52:26.158Z</updated>
     
-    <content type="html"><![CDATA[<hr><h2 id="title-test2"><a href="#title-test2" class="headerlink" title="title:test2"></a>title:test2</h2><p>title：test2</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><ol><li>这是我的第一个博客页面<ol><li>1</li></ol></li></ol><ul><li>这是我的第一个博客页面<ul><li>2</li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><ol><li>这是我的第一个博客页面<ol><li>1</li></ol></li></ol><ul><li>这是我的第一个博客页面<ul><li>2</li></ul></li></ul><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>222</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;title-test2&quot;&gt;&lt;a href=&quot;#title-test2&quot; class=&quot;headerlink&quot; title=&quot;title:test2&quot;&gt;&lt;/a&gt;title:test2&lt;/h2&gt;&lt;p&gt;title：test2&lt;/p&gt;
-&lt;h2 id=&quot;Quick</summary>
+    <summary type="html">&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;这是我的第一个博客页面&lt;ol&gt;
+&lt;li&gt;1&lt;/li&gt;
+&lt;</summary>
       
     
     
